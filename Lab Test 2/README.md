@@ -1,8 +1,8 @@
-# 🌱 Smart Irrigation Decision System
+Smart Irrigation Decision System
 
 A rule-based Artificial Intelligence expert system developed using **Prolog** that helps determine irrigation requirements based on crop type, soil moisture, temperature, humidity, and expected rainfall.
 
-## 📌 Project Overview
+Project Overview
 
 The Smart Irrigation Decision System analyses agricultural and environmental conditions provided by the user and generates an appropriate irrigation recommendation.
 
@@ -10,7 +10,7 @@ The system uses predefined facts and logical rules to determine whether irrigati
 
 This project demonstrates the application of **Logic Programming and Rule-Based Expert Systems in Artificial Intelligence**.
 
-## 🎯 Problem Statement
+Problem Statement
 
 Farmers need to decide when and how much water should be supplied to their crops.
 
@@ -18,7 +18,7 @@ Unnecessary irrigation can waste water, while insufficient irrigation can affect
 
 This project provides a simple rule-based solution that analyses different environmental conditions and generates irrigation recommendations.
 
-## ✨ Features
+Features
 
 - User-based input system.
 - Supports two crops: Tomato and Wheat.
@@ -32,14 +32,14 @@ This project provides a simple rule-based solution that analyses different envir
 - Automatic irrigation recommendations.
 - Displays the reason behind each recommendation.
 
-## 🛠️ Technologies Used
+Technologies Used
 
 - **Programming Language:** Prolog
 - **Prolog Environment:** SWI-Prolog
 - **Code Editor:** Visual Studio Code
 - **Library:** SWI-Prolog `readutil`
 
-## 🌾 Supported Crops
+Supported Crops
 
 | Crop | Minimum Soil Moisture Requirement |
 |---|---:|
@@ -48,7 +48,7 @@ This project provides a simple rule-based solution that analyses different envir
 
 *These are predefined demonstration thresholds used in this project.*
 
-## 📥 Input Parameters
+Input Parameters
 
 The program asks the user to enter five parameters:
 
@@ -60,7 +60,7 @@ The program asks the user to enter five parameters:
 | Humidity | Current humidity | 0–100% |
 | Expected Rainfall | Whether rainfall is expected | yes / no |
 
-## 🧠 Decision-Making Rules
+Decision-Making Rules
 
 The system uses five logical rules:
 
@@ -86,7 +86,7 @@ The program will ask for:
 
 After receiving all inputs, the system automatically displays the irrigation recommendation.
 
-## 💻 Sample Execution
+Sample Execution
 
 **Example Input:**
 
@@ -121,7 +121,7 @@ Reason: Very low moisture or hot and dry weather
 ====================================
 ```
 
-## 🎥 Project Demonstration Video
+Project Demonstration Video
 
 Watch the complete project demonstration, including source code explanation, user input and program execution:
 
