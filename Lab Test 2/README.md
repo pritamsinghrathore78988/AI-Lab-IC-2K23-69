@@ -125,5 +125,5 @@ Project Demonstration Video
 
 Watch the complete project demonstration, including source code explanation, user input and program execution:
 
-**[▶ Watch Smart Irrigation System Demonstration]
+Watch Smart Irrigation System Demonstration : https://youtu.be/N2tPE-byitU?si=OuLQugvTf8shoP7P
 
