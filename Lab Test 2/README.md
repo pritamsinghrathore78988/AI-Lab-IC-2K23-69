@@ -1,4 +1,4 @@
-** Smart Irrigation Decision System
+** Smart Irrigation Decision System 
 
 A rule-based Artificial Intelligence expert system developed using **Prolog** that helps determine irrigation requirements based on crop type, soil moisture, temperature, humidity, and expected rainfall.
 
